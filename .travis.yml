@@ -1,16 +1,6 @@
-{
-  "bitwise": true,
-  "browser": true,
-  "curly": true,
-  "eqeqeq": true,
-  "esnext": true,
-  "latedef": true,
-  "noarg": true,
-  "node": true,
-  "strict": true,
-  "undef": true,
-  "unused": true,
-  "globals": {
-    "angular": true
-  }
-}
+language: node_js
+node_js:
+  - 0.8
+before_script:
+  - export DISPLAY=:99.0
+  - sh -e /etc/init.d/xvfb start
