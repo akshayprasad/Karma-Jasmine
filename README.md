@@ -193,7 +193,7 @@ When the number of test suites and specs grows larger, the overall test speed is
 webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233?pr=idea">ddescriber for jasmine</a>
 
 ## **Sample Examples with explanation**
-<a href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</a>
+- <h3><a href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</a></h3>
 
 
 ## Reference
