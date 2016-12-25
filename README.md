@@ -192,11 +192,11 @@ When the number of test suites and specs grows larger, the overall test speed is
 ```
 webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233?pr=idea">ddescriber for jasmine</a>
 
+## **Sample Examples with explanation**
+<a href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</a>
+
+
 ## Reference
 - Karma runs on Node.js and is available as an NPM package. Setup steps can be found [here](http://karma-runner.github.io/0.12/intro/installation.html)
 - The current test cases are constructed using the [Jasmine framework](http://jasmine.github.io/).
 -Check the examples of the above mentioned description.
-<p align="center">
-[![Circle CI](https://circleci.com/gh/ntkme/github-buttons.svg?style=svg)](https://circleci.com/gh/ntkme/github-buttons)
-<button><a href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</a></button>
-</p>
