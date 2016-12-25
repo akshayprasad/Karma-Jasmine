@@ -200,7 +200,7 @@ webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233
         data-count-api="{{ count_api }}"
         data-count-aria-label="{{ count_aria_label }}"
         data-style="{{ style }}"
-        data-text="{{ button_text }}"
+        data-text="{{ Check Examples }}"
         aria-label="{{ button_aria_label }}">Check Examples</a></h3>
 
 
