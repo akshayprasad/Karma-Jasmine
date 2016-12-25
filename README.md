@@ -197,5 +197,5 @@ webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233
 - The current test cases are constructed using the [Jasmine framework](http://jasmine.github.io/).
 -Check the examples of the above mentioned description.
 <p align="center">
-<button><a href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</a></button>
+<button href="https://github.com/vishwackh/AngularJS-Jasmine-Karma/wiki">Check Examples</button>
 </p>
