@@ -20,7 +20,7 @@
     "karma-spec-reporter": "0.0.26"
   },
   "scripts": {
-    "test": "karma start karma.conf.js"
+    "test": "./node_modules/.bin/karma start --browsers Firefox --single-run"
   },
   "author": "vishwanatha v",
   "license": "MIT"
