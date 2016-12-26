@@ -6,7 +6,7 @@ module.exports = function(config) {
 
     // base path that will be used to resolve all patterns (eg. files, exclude)
     basePath: '',
-
+    
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
@@ -21,15 +21,15 @@ module.exports = function(config) {
         suppressSkipped: true,  // do not print information about skipped tests
         showSpecTiming: false // print the time elapsed for each spec
       },
-    plugins: ["karma-jasmine","karma-chrome-launcher","karma-spec-reporter"],
+    plugins: ["karma-chrome-launcher","karma-jasmine","karma-spec-reporter"],
     // list of files / patterns to load in the browser
     files: [
     'bower_components/jquery/dist/jquery.js',
     'bower_components/bootstrap/dist/js/bootstrap.js',
     'bower_components/angular/angular.js',
     'bower_components/angular-ui-router/release/angular-ui-router.js',
-	  'bower_components/angular-cookies/angular-cookies.js',
-	  'bower_components/angular-mocks/angular-mocks.js',
+      'bower_components/angular-cookies/angular-cookies.js',
+      'bower_components/angular-mocks/angular-mocks.js',
 
     'app/**/*.js',
     'test/**/*.js'
