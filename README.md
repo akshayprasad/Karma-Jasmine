@@ -1,3 +1,16 @@
+
+## Development Build:
+ -  npm install (To install the packages)
+ -  bower install (To install the bower components) 
+ -  grunt serve (To run the app: developement)
+
+## Production Build
+ -  npm install -g http-server
+ -  grunt build (to generate "dist" folder)
+ -  http-server (inside the "dist" directory)
+
+
+
 <p align="center">
   <a href="http://gulpjs.com">
     <img  src="https://www.agvision.ro/wp-content/uploads/2016/04/angular-2-testing-750x247.jpg">
