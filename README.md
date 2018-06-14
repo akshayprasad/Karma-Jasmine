@@ -209,6 +209,3 @@ webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233
 - Karma runs on Node.js and is available as an NPM package. Setup steps can be found [here](http://karma-runner.github.io/0.12/intro/installation.html)
 - The current test cases are constructed using the [Jasmine framework](http://jasmine.github.io/).
 -Check the examples of the above mentioned description.
-
-
-<a src="https://buttons.github.io/buttons.js"></a>
