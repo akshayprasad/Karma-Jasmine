@@ -25,7 +25,7 @@ The primary goal of unit testing is to take the smallest piece of testable softw
 ## Testing AngularJS Application :
 AngularJS build around the concept of dependency injection & loose coupling to the DOM which make it a testable.
 
-Test Driven Development :
+<b>Test Driven Development :</b>
 Test Driven Development a software development process that relies on the repetition of a short development cycle: first the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the fair amount of code to pass that test, and lastly refractors the new code to acceptable standards.
 
 <p align="center">
@@ -33,6 +33,7 @@ Test Driven Development a software development process that relies on the repeti
     <img  src="https://github.com/vishwackh/AngularJS-Jasmine-Karma/blob/master/img/angularjs-unit-testing-introduction.jpg">
   </a>
 </p>  
+
 ## AngularJS
 AngularJS is one of the most popular single-page application frameworks.
 
@@ -61,14 +62,14 @@ ANGULAR MOCKS Allows you to inject and mock Angular services for unit tests.
 <a href="https://docs.angularjs.org/guide/unit-testing" >guide/unit-testing</a>
 
 ## Project Setup:
--- Setting up our TDD Environment Project Setup --
+<b>-- Setting up our TDD Environment Project Setup --</b>
 
--  Let\`s start writing from scratch. First, we need to create a basic project structure with a folder that contain our sources, and a folder that contains our specs. then we can init a package.json using command $npm init
-- $ npm install karma let\`s install Karma (and all the plugins your project needs) locally in the project's directory. (don\`t forget to use the --save-dev flags)
-- $ npm install karma-jasmine $ npm install karma-chrome-launcher since we going to use jasmine, let\`s install the karma adaptor plugin for jasmine. we will also install the chrome launcher plugin to enable karma to launch chrome browser for us.
-- $ npm install -g karma-cli, we will install the karma command line interface (cli) globally, which enable us to simplify and configure karma in our project
-- $ karma init with the karma cli installed, we can create our configuration file fast and easy.
-- $ karma start $ karma run Let\`s take karma for a test drive: in webstorm, right click on the configuration file and choose run. if you don\`t use webstorm, start the karma server with start, and run you tests with run (karma start / karma start karma.conf.js)
+-  Let\`s start writing from scratch. First, we need to create a basic project structure with a folder that contain our sources, and a folder that contains our specs. then we can init a <b>package.json</b> using command <b>$npm init</b>
+- <b>$ npm install karma</b> let\`s install Karma (and all the plugins your project needs) locally in the project's directory. (don\`t forget to use the <b>--save-dev</b> flags)
+- <b>$ npm install karma-jasmine</b> <b>$ npm install karma-chrome-launcher</b> since we going to use jasmine, let\`s install the karma adaptor plugin for jasmine. we will also install the chrome launcher plugin to enable karma to launch chrome browser for us.
+- <b>$ npm install -g karma-cli</b>, we will install the karma command line interface (cli) globally, which enable us to simplify and configure karma in our project
+- <b>$ karma init</b> with the karma cli installed, we can create our configuration file fast and easy.
+- <b>$ karma start $ karma run</b> Let\`s take karma for a test drive: in webstorm, right click on the configuration file and choose run. if you don\`t use webstorm, start the karma server with start, and run you tests with run (karma start / karma start karma.conf.js)
 
 ## quick intruduction to the Jasmine framwork Jasmine
 
