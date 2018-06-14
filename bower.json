@@ -21,5 +21,8 @@
     "angular-ui-router": "^0.3.1",
     "angular-mocks": "^1.5.9",
     "angular-cookies": "^1.6.0"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^2.2.0"
   }
 }
