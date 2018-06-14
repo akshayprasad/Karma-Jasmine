@@ -211,4 +211,4 @@ webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233
 -Check the examples of the above mentioned description.
 
 
-<a async defer src="https://buttons.github.io/buttons.js"></a>
+<a src="https://buttons.github.io/buttons.js"></a>
