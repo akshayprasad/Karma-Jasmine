@@ -7,7 +7,7 @@
 
 ## Quick Start?
 ```js
-$ git clone https://github.com/vishwackh/AngularJS-Jasmine-Karma.git
+$ git clone https://github.com/akshayprasad/Karma-Jasmine.git
 ```
 To run the sample, open a command prompt and execute the following commands:
 
