@@ -73,7 +73,7 @@ ANGULAR MOCKS Allows you to inject and mock Angular services for unit tests.
 
 ## quick intruduction to the Jasmine framwork Jasmine
 
-in jasmine, we begin by creating a test suite with the global **describe** function that wrap our specs. specs defined by the global function **it**. inside the spec we can describe our expectations by using the **expect** function chained to a matcher function
+In jasmine, we begin by creating a test suite with the global **describe** function that wrap our specs. specs defined by the global function **it**. inside the spec we can describe our expectations by using the **expect** function chained to a matcher function
 
 ```js
 describe("suite name", function() {
@@ -211,4 +211,4 @@ webstorm users can install the <a href="http://plugins.jetbrains.com/plugin/7233
 -Check the examples of the above mentioned description.
 
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<a async defer src="https://buttons.github.io/buttons.js"></a>
