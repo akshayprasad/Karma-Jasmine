@@ -11,13 +11,13 @@ $ git clone https://github.com/akshayprasad/Karma-Jasmine.git
 ```
 To run the sample, open a command prompt and execute the following commands:
 
- -  npm install (to install karma package)
- -  npm install -g gulp (to install gulp globally)
- -  npm install -g karma-cli (to install karma cli globally)
- -  bower install (to install front-end packages)
- -  gulp test (to start karma and run tests / Run test once and exit)
- -  gulp dev-test (to start karma and run tests / Watch for file changes and re-run tests on each change)
- -  npm test (to start karma and run tests / Watch for file changes and re-run tests on each change)
+ -  <b>npm install</b> (to install karma package)
+ -  <b>npm install -g gulp</b> (to install gulp globally)
+ -  <b>npm install -g karma-cli</b> (to install karma cli globally)
+ -  <b>bower install</b> (to install front-end packages)
+ -  <b>gulp test</b> (to start karma and run tests / Run test once and exit)
+ -  <b>gulp dev-test</b> (to start karma and run tests / Watch for file changes and re-run tests on each change)
+ -  <b>npm test</b> (to start karma and run tests / Watch for file changes and re-run tests on each change)
 
 ## About Unit Testing:
 The primary goal of unit testing is to take the smallest piece of testable software in the application, isolate it from the remaining of the code, and determine whether it behaves perfectly as you expect.
